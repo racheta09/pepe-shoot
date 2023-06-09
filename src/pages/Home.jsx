@@ -73,10 +73,10 @@ function Home(props) {
 
             <About data={dataAbout} />
 
-            <RoadMap data={dataRoadmap} />
+            {/* <RoadMap data={dataRoadmap} /> */}
 
             {/* <Project data={dataProject} /> */}
-            <section className="tf-section tf-about" id="about">
+            {/* <section className="tf-section tf-about" id="about">
                 <div className="container">
                     <div className="row">
                         <div className="col-xl-5 col-md-12">
@@ -128,17 +128,17 @@ function Home(props) {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
 
-            <Work data={dataWork} />
+            {/* <Work data={dataWork} /> */}
 
-            <Team data={dataTeam} />
+            {/* <Team data={dataTeam} /> */}
 
             <Partner data={dataPartner} />
 
-            <Blog data={dataBlog} />
+            {/* <Blog data={dataBlog} /> */}
 
-            <FAQ data={dataFaq} />
+            {/* <FAQ data={dataFaq} /> */}
         </div>
     )
 }

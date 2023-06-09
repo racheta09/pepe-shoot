@@ -2,7 +2,7 @@ const menus = [
     {
         id: 1,
         name: 'Home',
-        links: '#',
+        links: '/#',
         // namesub: [
         //     {
         //         id: 1,
@@ -24,7 +24,7 @@ const menus = [
     {
         id: 2,
         name: 'About',
-        links: '#',
+        links: '/#',
         // namesub: [
         //     {
         //         id: 1,
@@ -67,7 +67,7 @@ const menus = [
     {
         id: 3,
         name: 'Road Map',
-        links: '#',
+        links: '/#',
         // namesub: [
         //     {
         //         id: 1,
@@ -84,7 +84,7 @@ const menus = [
     {
         id: 4,
         name: 'Nft',
-        links: '#',
+        links: '/#',
         // namesub: [
         //     {
         //         id: 1,
@@ -101,7 +101,7 @@ const menus = [
     {
         id: 5,
         name: 'Blog',
-        links: '#',
+        links: '/#',
         // namesub: [
         //     {
         //         id: 1,

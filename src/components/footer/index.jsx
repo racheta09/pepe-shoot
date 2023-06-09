@@ -38,7 +38,7 @@ function Footer(props) {
                     <ul className="widget-social">
                         <li>
                             <Link
-                                to="https://twitter.com/PepeShootP2E"
+                                to="https://twitter.com/pepe2earn"
                                 target="_blank"
                                 rel="noreferrer"
                             >
@@ -58,7 +58,7 @@ function Footer(props) {
                         </li>
                         <li>
                             <Link
-                                to="https://instagram.com/pepeshootp2e"
+                                to="https://instagram.com/pepe2earn"
                                 target="_blank"
                                 rel="norefferer"
                             >
@@ -76,7 +76,7 @@ function Footer(props) {
                         </li>
                         <li>
                             <Link
-                                to="https://t.me/PepeShootP2Echat"
+                                to="https://t.me/pepe2earnchat"
                                 target="_blank"
                                 rel="norefferer"
                             >
